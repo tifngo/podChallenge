@@ -1,0 +1,32 @@
+ #footer-container {
+    position: relative;
+    min-height: 100vh;
+ }
+ 
+ .fa-copywrite {
+    margin-left: 15px;
+    padding-left: 15px;
+    margin-bottom: 15px;
+    float: left;
+  }
+  
+  .fa-facebook, .fa-square-instagram, .fa-twitter {
+    color: black;
+    margin-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    float: right;
+    color: black;
+  }
+  
+  footer {
+    background-color: #e3f2fd;
+    color: black;
+    padding: 30px;
+    font-size: 20px;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+  }
+
+  
